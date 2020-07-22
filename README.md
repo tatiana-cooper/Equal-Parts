@@ -16,7 +16,7 @@ Clone this repo to your local machine using  `https://github.com/tatiana-cooper/
 ### Setup
 Windows 10:
 
-For lunching app:
+For launching app:
 ```sh
 > python equal_sum.py
 ```
